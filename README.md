@@ -1,6 +1,4 @@
-# Criptografía
-
-# Introducción
+# Sistemas criptográficos
 Implementaciones en Python de los siguientes criptosistemas
 
 ## Complete Criptosystem
