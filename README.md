@@ -1,7 +1,7 @@
 # Sistemas criptográficos
 Implementaciones en Python de los siguientes criptosistemas
 
-## Complete Criptosystem
+## Complete Cryptosystem
 Implementación de un criptosistema basado en dos criptosistemas históricos: La rejilla de cardano y el cifrado de desplazamiento.
 
 ## Symetric key and Hash
